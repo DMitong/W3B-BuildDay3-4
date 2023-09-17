@@ -105,7 +105,7 @@ export function App() {
   return (
     <section className={"container"}>
       <nav>
-        RainbowKit
+        Colour Board - Contract Deployed to Sepolia
         <div className={"nav-connect-button"}>
           <ConnectButton />
         </div>
